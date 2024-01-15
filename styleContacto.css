@@ -1,10 +1,14 @@
 body {
-     background-color: bisque;
+     background-color: rgb(255, 255, 255);
 }
 
 h1.fondo {
     background-color: black;
     color: orange;
+}
+
+nav.menu {
+  background-color: orange;
 }
 
 img.Imagen {
@@ -78,4 +82,10 @@ div.Mapa {
 a.Inicio {
     position: relative;
     top: -230px;
+}
+
+img.escudo {
+  position: relative;
+  top: -20px;
+  left: 600px;
 }

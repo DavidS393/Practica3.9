@@ -11,3 +11,22 @@ h1.negro {
 nav.menu {
     background-color: orange;
 }
+
+img.inicio {
+    position: relative;
+    top: 180px;
+    left: 400px;
+}
+
+img.parejo {
+    position: relative;
+    top: 180px;
+    left: -750px;
+    width: 510px;
+    height: 340px;
+}
+
+p.abajo {
+    position: relative;
+    top: 100px;
+}
